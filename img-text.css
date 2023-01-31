@@ -5,11 +5,16 @@
   
   .text-block {
     position: absolute;
-    bottom: 20px;
-    right: 20px;
-    background-color: black;
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
+    left: 300px;
+    top: 600px;
+bottom: 600px;
+right: 300px;
+    color:gold;
+    font-size: 20px;
+    
+    
+
+    
+    
   }
   
